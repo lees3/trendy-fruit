@@ -25,5 +25,33 @@ html {
 }
 
 body {
+  margin: 0;
+}
 
+.watermelon {
+  font-family: "Rammetto One", sans-serif;
+}
+
+.starfruit {
+  font-family: "Gravitas One", sans-serif;
+}
+
+.persimmon {
+  font-family: Comfortaa, sans-serif;
+}
+
+p {
+  font-family: "Open Sans", sans-serif;
+}
+
+.div-1 {
+  background-color: #e97065;
+}
+
+.div-2 {
+  background-color: #fbd25e;
+}
+
+.div-3 {
+  background-color: #e86033;
 }
