@@ -28,15 +28,15 @@ body {
   margin: 0;
 }
 
-.watermelon {
+.watermelon-h2 {
   font-family: "Rammetto One", sans-serif;
 }
 
-.starfruit {
+.starfruit-h2 {
   font-family: "Gravitas One", sans-serif;
 }
 
-.persimmon {
+.persimmon-h2 {
   font-family: Comfortaa, sans-serif;
 }
 
@@ -44,14 +44,14 @@ p {
   font-family: "Open Sans", sans-serif;
 }
 
-.div-1 {
+.watermelon {
   background-color: #e97065;
 }
 
-.div-2 {
+.starfruit {
   background-color: #fbd25e;
 }
 
-.div-3 {
+.persimmon {
   background-color: #e86033;
 }
